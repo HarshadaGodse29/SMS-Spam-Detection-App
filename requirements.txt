@@ -1,1 +1,4 @@
-to run the code : streamlit run app.py
+streamlit
+nltk
+scikit-learn
+pickle5
